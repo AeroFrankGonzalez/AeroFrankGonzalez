@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Bilingual Data Engineer, certified in Data Science, Data Analysis, and Data Engineering, focused on Big Data engineering. I design and operate ETL/ELT pipelines with Python and SQL/NoSQL, prioritizing data quality and governance over visualization. I have a strong command of AWS, Azure, and GCP, as well as Databricks, Snowflake, and Microsoft Fabric, selecting components based on impact and cost-effectiveness.
+Bilingual Data Engineer, certified in Data Science, Data Analysis, and Data Engineering, focused on Big Data engineering. I design and operate ETL/ELT pipelines with Spark, Python and SQL/NoSQL, prioritizing data quality and governance over visualization. I have a strong command of AWS, Azure, and GCP, as well as Databricks, Snowflake, and Microsoft Fabric, selecting components based on impact and cost-effectiveness.
 
 I build and scale data platforms using Infrastructure as Code (Terraform, CloudFormation/Bicep) and automate testing and deployment with CI/CD. I integrate Spark for distributed processing and apply generative AI (OpenAI, Gemini, and Anthropic models) to accelerate data ingestion, semantic enrichment, and intelligent consumption.
 
@@ -14,7 +14,7 @@ My background in IT and consulting has provided me with real-world teamwork expe
 ## 💼 Experience in Sectors
 
 I have had the opportunity to apply my skills in a variety of industries, including:
-- 🚀 **Aerospace**
+- ✈️ **Aeronautical & Aerospace**
 - 💰 **Financial & Fintech**
 - 💻 **Tech & Startups**
 - 🤖 **Artificial Intelligence**
@@ -22,12 +22,12 @@ I have had the opportunity to apply my skills in a variety of industries, includ
 
 ## 🎓 Education
 
-- **Master Universitario en Analisis de Datos Masivos para los Negocios (Big Data & Analytics)**
-  - *Universidad Alfonso X el Sabio*
+- **Master's Degree in Big Data Analytics for Business**
+  - *Universidad Alfonso X el Sabio - [Spain 🇪🇸  UAX]*
   - Oct 2024 - Jun 2025
 
-- **Ingeniería Aeroespacial, Aeronáutica y Astronáutica**
-  - *Universidad Pontificia Bolivariana*
+- **Aeronautical and Aerospace Engineering**
+  - *Universidad Pontificia Bolivariana - [Colombia 🇨🇴  UPB]*
   - Jan 2015 - Dec 2020
 
 ## 🏅 Certifications & Continuous Learning
@@ -35,6 +35,16 @@ I have had the opportunity to apply my skills in a variety of industries, includ
 I am a firm believer in lifelong learning and hold numerous certifications from leading platforms such as **Databricks, Microsoft, AWS, Google Cloud, Platzi, Udemy, Coderhouse, and DataCamp**. These credentials cover a wide range of topics, including Data Engineering, Cloud Architecture, AI, Data Governance, and more, reflecting my commitment to staying at the forefront of technology.
 
 ## 🛠️ Skills
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Data Platforms
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Languages & Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
