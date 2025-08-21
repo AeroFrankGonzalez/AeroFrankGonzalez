@@ -120,7 +120,7 @@ I am a firm believer in lifelong learning and hold numerous certifications from 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=aws-cloudformation&logoColor=white)
 
-## 📈 Github Stats
+## 📈 GitHub Stats
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AeroFrankGonzalez&row=2&column=3&margin-h=0&theme=darkhub&count_private=true&no-frame=true" alt="profile trophies" />
