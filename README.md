@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Bilingual Data Engineer, certified in Data Science, Data Analysis, and Data Engineering, focused on Big Data engineering. I design and operate ETL/ELT pipelines with Spark, Python and SQL/NoSQL, prioritizing data quality and governance over visualization. I have a strong command of AWS, Azure, and GCP, as well as Databricks, Snowflake, and Microsoft Fabric, selecting components based on impact and cost-effectiveness.
+Bilingual Data Engineer, certified in Data Science, Data Analysis, and Data Engineering, focused on Big Data engineering and cloud solutions across AWS, GCP, and Azure. I design and operate ETL/ELT pipelines with Spark, Python and SQL/NoSQL, prioritizing data quality and governance over visualization. I have a strong command of AWS, Azure, and GCP, as well as Databricks, Snowflake, and Microsoft Fabric, selecting components based on impact and cost-effectiveness.
 
 I build and scale data platforms using Infrastructure as Code (Terraform, CloudFormation/Bicep) and automate testing and deployment with CI/CD. I integrate Spark for distributed processing and apply generative AI (OpenAI, Gemini, and Anthropic models) to accelerate data ingestion, semantic enrichment, and intelligent consumption.
 
