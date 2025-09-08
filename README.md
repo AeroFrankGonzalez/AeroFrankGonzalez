@@ -99,6 +99,8 @@ I am a firm believer in lifelong learning and hold numerous certifications from 
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=for-the-badge&logo=amazon-sagemaker&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-8C42DD?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-7D2AE7?style=for-the-badge&logo=make&logoColor=white)
 
 ### Infrastructure, CI/CD & Governance
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
